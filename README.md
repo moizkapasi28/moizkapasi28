@@ -9,7 +9,7 @@
 ╚═╝     ╚═╝ ╚═════╝ ╚═╝╚══════╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=00FF9C&center=true&vCenter=true&width=750&lines=+%5B+MERN+%7C+NestJS+%7C+Fastify+%7C+AWS+%7C+PostgreSQL+%7C+BullMQ+%5D;+%5B+Tailwind+CSS+%7C+Shadcn%2FUI+%7C+Scalar+%7C+Docker+%5D;+%5B+Cursor+%7C+Windsurf+%7C+Codeium+%5D;+%5B+status%3A+building+things+that+scale+%5D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=00FF9C&center=true&vCenter=true&width=750&lines=+%5B+MERN+%7C+Full Stack+%7C+AWS+%7C+PostgreSQL+%7C+BullMQ+%5D;+%5B+Tailwind+CSS+%7C+Shadcn%2FUI+%7C+Scalar+%7C+Docker+%5D;+%5B+Cursor+%7C+Windsurf+%7C+Codeium+%5D;+%5B+status%3A+building+things+that+scale+%5D" alt="Typing SVG" />
 
 </div>
 
